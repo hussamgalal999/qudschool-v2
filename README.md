@@ -9,7 +9,7 @@
 - **Personalized Progress Tracking**: Each user can track their progress, earn badges, and unlock new levels as they learn.
 - **Real-World Applications**: Practical projects that apply coding, design, and AI skills to real-world scenarios.
 - **Cross-Platform Compatibility**: Fully responsive design optimized for desktops, tablets, and smartphones, with native app support for iOS and Android.
-  
+
 ## Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS for styling, and Framer Motion for animations to create an engaging and smooth experience.
@@ -19,10 +19,8 @@
 
 ## Screenshots
 
-![QudSchool Home Page]([https://link-to-your-image.com/homepage-screenshot.png](https://github.com/hussamgalal999/qudschool-v2/blob/main/qudschool.jpeg?raw=true))
+![QudSchool Home Page](https://github.com/hussamgalal999/qudschool-v2/blob/main/qudschool.jpeg?raw=true)
 *Home page showcasing the course catalog and personalized learning dashboard.*
-
-> _Replace the above link with your actual image URL._ 
 
 ## Getting Started
 
